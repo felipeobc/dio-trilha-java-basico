@@ -6,10 +6,10 @@ public class ContaTerminal {
         Scanner sc = new Scanner(System.in);
         Random gerador = new Random();
 
-        int numero = 0;
-        String agencia = null;
-        String nomeCliente = "";
-        double saldo = 0.0;
+        int numero;
+        String agencia;
+        String nomeCliente;
+        double saldo;
 
         numero = gerador.nextInt(999);
         saldo = gerador.nextDouble(9999);
