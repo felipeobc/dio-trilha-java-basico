@@ -1,4 +1,4 @@
-Desafio 1 - DIO - Trilha Java Básico
+##Desafio 1 - DIO - Trilha Java Básico
 www.dio.me
 
 Autores
@@ -25,7 +25,7 @@ Depois de todas as informações terem sido inseridas, o sistema deverá exibir 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
 
-Desafio 2 - Controle de Fluxo - Desafio
+##Desafio 2 - Controle de Fluxo - Desafio
 Vamos exercitar todo o conteúdo apresentado no módulo de Controle de Fluxo codificando o seguinte cenário.
 
 O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros, com estes dois números você deverá obter a quantidade de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados, exemplo:
